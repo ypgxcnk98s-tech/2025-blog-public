@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索笔记。前端 UI 更新代码仓库。"
+		"title": "星兜Blog",
+		"description": "星兜 的个人博客，记录前端开发、探索笔记。前端 UI 更新代码仓库。"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -41,23 +41,16 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
-			"order": 3
-		},
-		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "link",
+			"value": "https://tab.ruiwx.cn",
+			"label": "tab",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "2382365450@qq.com",
 			"label": "",
 			"order": 1
 		}
